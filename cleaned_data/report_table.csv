@@ -1,0 +1,55 @@
+Rank,Community,Distance to Hospital (km),Nearest Acute Hospital,65+ Share (%),65+ Population,Total Population (estimate),Vulnerability Score,Population Method,Vulnerable
+1,Chester and Area,32.35,Fishermen's Memorial Hospital,30.6,3270.0,10693.0,0.833,CSD_exact,Yes
+2,Digby / Clare / Weymouth,29.87,Digby General Hospital,30.1,2780.0,9243.0,0.787,CSD_exact,Yes
+3,Liverpool,26.23,Queens General Hospital,31.5,3280.0,10422.0,0.769,CSD_exact,Yes
+4,Cumberland North / North Shore,18.52,North Cumberland Memorial Hospital,35.4,1515.0,4283.0,0.751,CSD_exact,Yes
+5,Port Hawkesbury / L'Ardoise / Isle Madame,20.89,Strait - Richmond Hospital,32.6,1225.0,3763.0,0.72,CSD_exact,Yes
+6,Economy / Glenholme,31.32,All Saints Springhill Hospital,25.8,970.0,3762.0,0.71,CSD_exact,Yes
+7,Hants North,36.65,Hants Community Hospital,21.8,1549.0,7103.0,0.694,DA_area_weighted,
+8,South Cumberland,16.88,South Cumberland Community Care Centre,33.7,1080.0,3201.0,0.69,CSD_exact,Yes
+9,Yarmouth,27.36,Yarmouth Regional Hospital,26.7,2105.0,7870.0,0.676,CSD_exact,Yes
+10,Dingwall,24.97,Buchanan Memorial Community Health Centre,27.5,735.0,2673.0,0.661,CSD_exact,Yes
+11,Cheticamp,12.7,Sacred Heart Community Health Centre,33.6,1750.0,5207.0,0.63,CSD_exact,Yes
+12,Florence / Sydney Mines / North Sydney,21.28,Victoria County Memorial Hospital,27.3,5122.0,18764.0,0.606,DA_area_weighted,Yes
+13,Sherbrooke,11.13,St. Mary’s Memorial Hospital,33.3,720.0,2161.0,0.602,CSD_exact,Yes
+14,Inverness,12.14,Inverness Consolidated Memorial Hospital,31.8,1545.0,4865.0,0.582,CSD_exact,Yes
+15,Annapolis Royal,23.94,Annapolis Community Health Centre,24.3,740.0,3049.0,0.575,CSD_exact,
+16,Eastern Shore / Musquodoboit,23.61,Musquodoboit Valley Memorial Hospital,24.1,4505.0,18724.0,0.566,DA_area_weighted,
+17,Pictou West,14.27,Sutherland Harris Memorial Hospital,29.5,1815.0,6153.0,0.559,CSD_exact,Yes
+18,Baddeck / Whycocomagh,9.25,Victoria County Memorial Hospital,32.4,1320.0,4077.0,0.556,CSD_exact,
+19,Lunenburg / Mahone Bay,9.27,Fishermen's Memorial Hospital,32.0,3009.0,9396.0,0.547,DA_area_weighted,
+20,Guysborough / Canso,3.45,Guysborough Memorial Hospital,35.2,1615.0,4585.0,0.539,CSD_exact,
+21,Amherst,13.29,Cumberland Regional Health Care Centre,28.4,1615.0,5694.0,0.521,CSD_exact,Yes
+22,Middleton,9.88,Soldiers Memorial Hospital,30.2,1385.0,4587.0,0.515,CSD_exact,
+23,Sydney and Area,17.9,Cape Breton Regional Hospital,24.7,12543.0,50808.0,0.501,DA_area_weighted,
+24,Bridgewater,10.66,South Shore Regional Hospital,28.5,6927.0,24286.0,0.487,DA_area_weighted,
+25,New Glasgow / Westville / Stellarton,12.39,Aberdeen Hospital,26.3,2205.0,8386.0,0.461,CSD_exact,Yes
+26,Shelburne / Lockeport,8.52,Roseway Hospital,28.4,1700.0,5980.0,0.455,CSD_exact,
+27,South Colchester,17.58,Musquodoboit Valley Memorial Hospital,21.6,2700.0,12476.0,0.427,CSD_exact,
+28,Truro and Area,12.14,Colchester East Hants Health Centre,24.6,4875.0,19806.0,0.42,CSD_exact,
+29,East Hants Corridor,24.98,Cobequid Community Health Centre,15.9,2103.0,13231.0,0.4,DA_area_weighted,
+30,Tantallon / Timberlea / SMB,23.66,Cobequid Community Health Centre,16.0,3383.0,21178.0,0.384,DA_area_weighted,
+31,Springhill,6.13,All Saints Springhill Hospital,26.6,1805.0,6786.0,0.382,CSD_exact,
+32,Dominion / Glace Bay,5.08,Glace Bay Health Care Facility,26.8,5389.0,20126.0,0.372,DA_area_weighted,
+33,Sambro Rural Loop,17.11,IWK Health Centre,19.1,2512.0,13148.0,0.364,DA_area_weighted,
+34,New Waterford,2.11,New Waterford Consolidated Hospital,27.3,2450.0,8961.0,0.342,DA_area_weighted,
+35,Berwick,10.42,Western Kings Memorial Health Centre,21.5,4815.0,22355.0,0.326,CSD_exact,
+36,Antigonish,4.17,St. Martha’s Regional Hospital,25.3,2270.0,8963.0,0.326,CSD_exact,
+37,Preston/Lawrencetown/Lake Echo,13.87,Dartmouth General Hospital,18.3,1952.0,10678.0,0.302,DA_area_weighted,
+38,Wolfville,4.14,Eastern Kings Memorial Community Health Centre,24.2,1543.0,6374.0,0.301,DA_area_weighted,
+39,West Hants,1.63,Hants Community Hospital,24.7,4810.0,19509.0,0.277,CSD_exact,
+40,Dartmouth South,1.47,Dartmouth General Hospital,24.2,6990.0,28874.0,0.264,DA_area_weighted,
+41,Kentville,3.58,Valley Regional Hospital,22.8,2720.0,11911.0,0.261,DA_area_weighted,
+42,Sackville North and Area,16.23,Cobequid Community Health Centre,13.9,3203.0,23033.0,0.235,DA_area_weighted,
+43,Clayton Park,6.6,QEII - Halifax Infirmary Site,19.2,7036.0,36662.0,0.222,DA_area_weighted,
+44,Armdale / Spryfield / Herring Cove,7.01,IWK Health Centre,18.1,5268.0,29139.0,0.203,DA_area_weighted,
+45,Dartmouth East,5.02,Dartmouth General Hospital,18.2,4310.0,23618.0,0.178,DA_area_weighted,
+46,Bedford / Hammonds Plains,7.87,Cobequid Community Health Centre,16.5,8375.0,50697.0,0.178,DA_area_weighted,
+47,Fall River and Area,9.46,Cobequid Community Health Centre,14.7,2484.0,16899.0,0.16,DA_area_weighted,
+48,Cole Harbour / Eastern Passage,5.75,Dartmouth General Hospital,16.7,5922.0,35566.0,0.154,DA_area_weighted,
+49,Dartmouth North,6.01,Dartmouth General Hospital,16.5,3589.0,21690.0,0.153,DA_area_weighted,
+50,Sackville South,1.77,Cobequid Community Health Centre,19.0,4075.0,21466.0,0.151,DA_area_weighted,
+51,Fairview,4.26,QEII - Halifax Infirmary Site,15.0,2948.0,19685.0,0.095,DA_area_weighted,
+52,Halifax Needham,2.32,QEII - Halifax Infirmary Site,15.7,3457.0,22078.0,0.084,DA_area_weighted,
+53,Halifax Chebucto,1.85,QEII - Halifax Infirmary Site,13.8,2786.0,20240.0,0.035,DA_area_weighted,
+54,Halifax Citadel,0.3,QEII - Victoria General (VG) Site,13.2,3528.0,26747.0,0.0,DA_area_weighted,
